@@ -1,0 +1,31 @@
+Command line:
+   ppm_isim_par.exe
+     -simmode  gui
+     -sdfmax  /ppm/=netgen/par/ppm_timesim.sdf
+     -sdfroot  /
+     -simrunnum  1
+     -socket  57443
+
+Tue Oct 04 09:52:47 2011
+
+
+ Elaboration Time: 0.468003 sec
+
+ Current Memory Usage: 574.439 Meg
+
+ Total Signals          : 13004
+ Total Nets             : 7645
+ Total Signal Drivers   : 7599
+ Total Blocks           : 3512
+ Total Primitive Blocks : 1833
+ Total Processes        : 7603
+ Total Traceable Variables  : 18084
+ Total Scalar Nets and Variables : 68826
+Total Line Count : 25594
+
+ Total Simulation Time: 0.982805 sec
+
+ Current Memory Usage: 574.439 Meg
+
+Tue Oct 04 09:53:02 2011
+

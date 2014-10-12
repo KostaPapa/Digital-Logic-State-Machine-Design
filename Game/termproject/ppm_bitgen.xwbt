@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\work\academic\cs2204v2\spring12\labs\termproject\ppm.ncd
+OUTFILE=D:\work\academic\cs2204v2\spring12\labs\termproject\ppm.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=D:\work\academic\cs2204v2\spring12\labs\termproject
+LICENSE=WebPack
+USER_INFO=0_0_276

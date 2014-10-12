@@ -1,0 +1,9 @@
+Running: C:\Xilinx\12.4\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/pmoise01/Desktop/exp6 - ppm/ppm_isim_beh.exe -prj C:/Users/pmoise01/Desktop/exp6 - ppm/ppm_beh.prj work.ppm 
+ISim M.81d (signature 0x12940baa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/pmoise01/Desktop/exp6 - ppm/X74_153.vhf" into library work
+Parsing VHDL file "C:/Users/pmoise01/Desktop/exp6 - ppm/u74_157.vhf" into library work
+Parsing VHDL file "C:/Users/pmoise01/Desktop/exp6 - ppm/ppm.vhf" into library work
+ERROR:Simulator:702 - Can not find design unit work.ppm in library work located at isim/work 
